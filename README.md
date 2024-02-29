@@ -91,7 +91,7 @@ A ideia é apresentar diferentes cenários e necessidades frente a essa ferramen
 
 A ideia é validar o quão capaz a solução é de detectar objetos, reconhecer e extrair texto por foto ou video de ambientes internos e em tempo real usando visão computacional.
 
-![img](inputs/img00.JPEG)
+![img](inputs/imagem1.JPEG)
 
 <br>
 
@@ -99,7 +99,7 @@ A ideia é validar o quão capaz a solução é de detectar objetos, reconhecer 
 
 Testar a possibilidade para reconhecimento e capitação de conteúdo de documentos, podendo ser esse arquivos pdf, print, imagem ou impresso.
 
-![img](inputs/img01.JPEG) 
+![img](input/imagem2.JPEG) 
 
 <br>
 
@@ -107,7 +107,7 @@ Testar a possibilidade para reconhecimento e capitação de conteúdo de documen
 
 Compreender se a tecnologia é capaz de extrair texto de documentos manuscritos, seja esse um orçamento ou prontuario médico, entre outros.
 
-input/imagem2.jpeg
+![img](inputs/imagem3.JPEG) 
 
 <br>
 
