@@ -133,19 +133,19 @@ Na página que se abre, habilite o `Try it out` e em seguida clique em `Browse f
 
 ### Ambiente
 
-![img](outputs/img00.JPEG)
+![img](output/img00.JPEG)
 
 <br>
 
 ### Leitura de imagem
 
-![img](outputs/img01.JPEG)
+![img](output/img01.JPEG)
 
 <br>
 
 ### Escrita a mão
 
-![img](outputs/img02.jpeg)
+![img](output/img02.jpeg)
 
 <br>
 
