@@ -107,7 +107,7 @@ Testar a possibilidade para reconhecimento e capitação de conteúdo de documen
 
 Compreender se a tecnologia é capaz de extrair texto de documentos manuscritos, seja esse um orçamento ou prontuario médico, entre outros.
 
-![img](inputs/img02.jpeg)
+input/imagem2.jpeg
 
 <br>
 
