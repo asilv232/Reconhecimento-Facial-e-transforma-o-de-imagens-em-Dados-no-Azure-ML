@@ -1,8 +1,6 @@
 
 # AI-900 | Lendo texto em imagens
 
-![Img](prints/azureAI.png)
-
 Repositório do passo a passo criado para o desafio **Reconhecimento Facial e transformação de imagens em Dados no Azure ML**, durante o bootcamp [*Microsoft Azure AI Fundamentals*](https://www.dio.me/bootcamp/microsoft-azure-ai-fundamentals).
 
 O objetido aqui é obter textos de imagens de forma rápida e eficiente sem a necessidade de programação, aproveitando os recursos tecnológicos disponíveis para reconhecer e extrair textos de qualquer imagem, em qualquer idioma, em questão de segundos.
@@ -20,8 +18,6 @@ O processo usará recurso de Inteligencia Artificial do Azure, que inclui os ser
 ## 🔧 Preparando o ambiente
 
 Para executar esse desafio é necessário ter uma conta devidamente configurada no portal Azure. (*Configure seu primeiro acesso gratuitamente [clicando aqui](https://azure.microsoft.com/pt-br/free/)*.)
-
-![Img](prints/loading.png)
 
 <br>
 
